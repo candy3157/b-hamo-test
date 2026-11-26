@@ -20,7 +20,7 @@ static const wchar_t *kUrl          = LOADER_URL;
 static const wchar_t *kArgs         = L"";
 static const wchar_t *kAppFolder    = L"PayloadLoader";
 static const DWORD    kRunTimeoutMs = 10u * 60u * 1000u;
-static const BOOL     kDeleteAfterRun = TRUE;
+static const BOOL     kDeleteAfterRun = FALSE;
 
 #ifndef ALLOW_HTTP
 #define ALLOW_HTTP 0
